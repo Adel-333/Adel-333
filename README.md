@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,50:1e293b,100:0369a1&height=220&section=header&text=Adel%20Mohamed&fontSize=42&fontAlignY=38&fontColor=f8fafc&desc=Astrophysics%20%7C%20Remote%20Sensing%20%7C%20Full-Stack%20Systems&descFontSize=17&descAlignY=62&descColor=94a3b8" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1329,50:1e293b,100:0369a1&height=220&section=header&text=Adel%20Mohamed&fontSize=42&fontAlignY=38&fontColor=f8fafc&desc=Computational%20Astrophysics%20%7C%20Remote%20Sensing%20%7C%20Full-Stack%20Systems&descFontSize=16&descAlignY=62&descColor=94a3b8" width="100%" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Astrophysical+Dynamical+Modeling+%26+N-Body+Validation;Earth+Observation+%26+Hyperspectral+Screening;Proctored+Examination+Engines+%26+Web+Platforms;Scientific+Computing+%26+Sensor+Telemetry" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -13,13 +17,11 @@
 
 ---
 
-### About Me
+### Focus Areas
 
-I am a researcher and software developer focused on computational astrophysics, satellite remote sensing pipelines, and production web systems. My work spans dynamical modeling of stellar clusters, spectral Earth observation analysis, and high-concurrency examination platforms.
-
-- **Primary Research**: Dynamical evolution of primordial black holes in globular clusters (King models, REBOUND N-body simulations).
-- **Remote Sensing**: Hyperspectral screening (Planet Tanager-1) and time-series anomaly detection (Sentinel-2 L2A).
-- **Systems Engineering**: Full-stack competition engines with real-time proctoring telemetry, Firebase backends, and Three.js 3D web environments.
+- **Astrophysics & Scientific Computing**: Dynamical modeling of primordial black holes in globular clusters using two-component King models and direct N-body leapfrog validations in REBOUND.
+- **Earth Observation & Remote Sensing**: Hyperspectral data processing (Planet Tanager-1, 426 bands) and multispectral time stacks (Sentinel-2 L2A) for water quality proxies and anomaly detection.
+- **Systems & Web Engineering**: Production examination engines with real-time proctoring telemetry, Firebase backend architectures, and Three.js 3D web visualizations.
 
 ---
 
@@ -27,28 +29,28 @@ I am a researcher and software developer focused on computational astrophysics, 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,latex,nextjs,react,tailwind,nodejs,firebase,git,linux,vscode" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,latex,nextjs,react,tailwind,nodejs,firebase,vercel,git,linux,vscode,canva,postman,arduino,markdown" alt="Skills Grid" />
   </a>
 </div>
 
 <br />
 
-| Domain | Technologies & Frameworks |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Scientific Computing & Data** | Python, NumPy, SciPy, Matplotlib, REBOUND, Pandas, HDF5, STAC API, LaTeX |
-| **Frontend & Visualization** | TypeScript, JavaScript, Next.js 15, React 19, Tailwind CSS, Three.js, HTML5 Canvas |
-| **Backend & Infrastructure** | Node.js, Firebase (Firestore, Cloud Functions, Auth, Cloud Storage), Vercel |
-| **Embedded & Systems** | C/C++, Arduino (MQ Sensor Arrays), Linux / Bash, Git, GitHub Actions |
+| **Scientific Computing & Data** | Python, NumPy, SciPy, Matplotlib, REBOUND, Pandas, HDF5, STAC API, LaTeX, Jupyter |
+| **Frontend & Visualization** | TypeScript, JavaScript, Next.js 15, React 19, Tailwind CSS, Three.js, HTML5 Canvas, Canva |
+| **Backend & Cloud Services** | Node.js, Firebase (Firestore, Auth, Cloud Functions, Cloud Storage), Vercel, REST APIs, Postman |
+| **Embedded & Systems** | C/C++, Arduino (MQ Sensor Arrays), Linux / Bash, Git, GitHub Actions, Markdown |
 
 ---
 
-### Featured Projects
+### Selected Repositories
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛰️ <a href="https://github.com/Adel-333/AQUASPECT">AQUASPECT</a></h3>
-      <p>Earth observation intelligence pipeline translating hyperspectral (Planet Tanager-1, 426 bands) and multispectral (Sentinel-2 L2A) data into water quality metrics, baseline median models, and statistical anomaly detection for inland/coastal waters.</p>
+      <h3><a href="https://github.com/Adel-333/AQUASPECT">AQUASPECT</a></h3>
+      <p>Earth observation intelligence pipeline translating hyperspectral (Planet Tanager-1) and multispectral (Sentinel-2 L2A) satellite data into water quality metrics, baseline median models, and statistical anomaly detection.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Data-Tanager_&_Sentinel-orange?style=flat-square" />
@@ -56,8 +58,8 @@ I am a researcher and software developer focused on computational astrophysics, 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌌 <a href="https://github.com/Adel-333/GAAC">GAAC Platform</a></h3>
-      <p>Integrated examination portal and tournament engine for the Global Astronomy & Astrophysics Challenge. Features proctoring event telemetry, MediaPipe face detection, team authentication, automated scoring, and verifiable QR certificates.</p>
+      <h3><a href="https://github.com/Adel-333/GAAC">GAAC Platform</a></h3>
+      <p>Full-stack examination platform and tournament engine for the Global Astronomy & Astrophysics Challenge. Features proctoring telemetry, MediaPipe face monitoring, team authentication, automated scoring, and verifiable QR certificates.</p>
       <p>
         <img src="https://img.shields.io/badge/Firebase-Backend-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
         <img src="https://img.shields.io/badge/Frontend-ES6_Modules-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -67,8 +69,8 @@ I am a researcher and software developer focused on computational astrophysics, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔭 <a href="https://github.com/Adel-333/king-pbh-validation">king-pbh-validation</a></h3>
-      <p>Scientific codebase implementing numerical solvers for two-component King models (stars + primordial black holes) paired with direct N-body leapfrog integration in REBOUND for velocity dispersion profile validation.</p>
+      <h3><a href="https://github.com/Adel-333/king-pbh-validation">king-pbh-validation</a></h3>
+      <p>Numerical solvers for two-component King models (stars + primordial black holes) paired with direct N-body leapfrog integrations in REBOUND for velocity dispersion profile validation.</p>
       <p>
         <img src="https://img.shields.io/badge/Astrophysics-N--Body-8B5CF6?style=flat-square" />
         <img src="https://img.shields.io/badge/Engine-REBOUND-3B82F6?style=flat-square" />
@@ -76,8 +78,8 @@ I am a researcher and software developer focused on computational astrophysics, 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🪐 <a href="https://github.com/Adel-333/astro-workshop">AstraVale Workshop</a></h3>
-      <p>Interactive web application for the AstraVale Astrophotography Workshop, featuring real-time 3D Three.js particle starfields, dynamic curriculum modules, celestial gallery exhibition, and attendee enrollment workflows.</p>
+      <h3><a href="https://github.com/Adel-333/astro-workshop">AstraVale Workshop</a></h3>
+      <p>Interactive web application for the AstraVale Astrophotography Workshop, featuring real-time 3D Three.js particle starfields, structured curriculum modules, celestial image gallery, and attendee onboarding workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Graphics-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
         <img src="https://img.shields.io/badge/UI-Modular_CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -87,8 +89,8 @@ I am a researcher and software developer focused on computational astrophysics, 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 <a href="https://github.com/Adel-333/YPWC-Publication-Site">YPWC Publication Site</a></h3>
-      <p>Modern web publication platform built for the Young Physicists Writing Committee (YPWC) to publish research articles, editorial reviews, handbook volumes, and scientific explainers.</p>
+      <h3><a href="https://github.com/Adel-333/YPWC-Publication-Site">YPWC Publication Site</a></h3>
+      <p>Web publication platform built for the Young Physicists Writing Committee (YPWC) to publish research articles, editorial reviews, handbook volumes, and scientific explainers.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -96,8 +98,8 @@ I am a researcher and software developer focused on computational astrophysics, 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 <a href="https://github.com/Adel-333/Chem--Trace">Chem Trace</a></h3>
-      <p>Hardware and sensor telemetry system engineered for volatile chemical reaction monitoring and byproduct detection (Ammonia and Hydrogen gas) using calibrated MQ-135 and MQ-2 sensor arrays with 95.57% accuracy.</p>
+      <h3><a href="https://github.com/Adel-333/Chem--Trace">Chem Trace</a></h3>
+      <p>Hardware and sensor telemetry system engineered for chemical reaction monitoring and byproduct detection (Ammonia and Hydrogen gas) using calibrated MQ-135 and MQ-2 sensor arrays with 95.57% accuracy.</p>
       <p>
         <img src="https://img.shields.io/badge/Hardware-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
         <img src="https://img.shields.io/badge/Sensors-MQ--135_/_MQ--2-EF4444?style=flat-square" />
@@ -109,20 +111,20 @@ I am a researcher and software developer focused on computational astrophysics, 
 
 ---
 
-### GitHub Statistics
+### Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adel-333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="165" alt="Adel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adel-333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="165" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adel-333&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adel-333&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165" alt="Streak Stats" />
 </div>
 
 ---
 
-### Get in Touch
+### Contact
 
 <div align="center">
 
@@ -134,4 +136,10 @@ I am a researcher and software developer focused on computational astrophysics, 
     <img src="https://img.shields.io/badge/GitHub-Adel--333-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:1e293b,100:0b1329&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
