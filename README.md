@@ -10,7 +10,8 @@
 
   [![GitHub followers](https://img.shields.io/github/followers/Adel-333?label=Followers&style=flat-square&color=0284c7)](https://github.com/Adel-333)
   [![Repositories](https://img.shields.io/badge/Repositories-Public-059669?style=flat-square)](https://github.com/Adel-333?tab=repositories)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-6366f1?style=flat-square)](https://opensource.org/licenses/MIT)
+  [![Contributions](https://img.shields.io/badge/Contributions-1500%2B_Commits-6366f1?style=flat-square)](https://github.com/Adel-333)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-3b82f6?style=flat-square)](https://opensource.org/licenses/MIT)
   [![Email](https://img.shields.io/badge/Contact-adilwasfy5096%40gmail.com-ea580c?style=flat-square&logo=gmail&logoColor=white)](mailto:adilwasfy5096@gmail.com)
 
 </div>
@@ -29,7 +30,12 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,latex,nextjs,react,tailwind,nodejs,firebase,vercel,git,linux,vscode,canva,postman,arduino,markdown" alt="Skills Grid" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,c,html,css,tailwind,react,nextjs,nodejs,express,firebase&perline=13" alt="Tech Stack Row 1" />
+  </a>
+</div>
+<div align="center" style="margin-top: 6px;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vercel,git,github,linux,bash,vscode,canva,figma,postman,arduino,latex,markdown&perline=12" alt="Tech Stack Row 2" />
   </a>
 </div>
 
@@ -38,9 +44,9 @@
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Scientific Computing & Data** | Python, NumPy, SciPy, Matplotlib, REBOUND, Pandas, HDF5, STAC API, LaTeX, Jupyter |
-| **Frontend & Visualization** | TypeScript, JavaScript, Next.js 15, React 19, Tailwind CSS, Three.js, HTML5 Canvas, Canva |
-| **Backend & Cloud Services** | Node.js, Firebase (Firestore, Auth, Cloud Functions, Cloud Storage), Vercel, REST APIs, Postman |
-| **Embedded & Systems** | C/C++, Arduino (MQ Sensor Arrays), Linux / Bash, Git, GitHub Actions, Markdown |
+| **Frontend & UI Design** | TypeScript, JavaScript, Next.js 15, React 19, Tailwind CSS, Three.js, HTML5 Canvas, Canva, Figma |
+| **Backend & Cloud Infrastructure** | Node.js, Express, Firebase (Firestore, Auth, Functions, Storage), Vercel, REST APIs, Postman |
+| **Hardware & Systems Engineering** | C/C++, Arduino (MQ Sensor Arrays), Linux / Bash, Git, GitHub Actions, Markdown |
 
 ---
 
@@ -114,7 +120,7 @@
 ### Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adel-333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adel-333&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adel-333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" height="165" alt="Top Languages" />
 </div>
 
